@@ -70,7 +70,7 @@
     <string name="short_cut_download_gapps_title">Download gapps</string>
     <string name="short_cut_download_gapps_summary">Download SlimKat addon packages</string>
 
-    <string name="download_url">http://shine911.nazuka.net/download</string>
+    <string name="download_url">http://shine911.github.io/download</string>
     <string name="changelog_url">http://otaslim.slimroms.net/changelog.htm</string>
     <string name="faq_url">http://otaslim.slimroms.net/faq.htm</string>
     <string name="news_url">http://otaslim.slimroms.net/news.htm</string>
@@ -78,8 +78,8 @@
     <string name="gapps_url_kitkat">http://otaslim.slimroms.net/gapps_kitkat.htm</string>
 
     <!-- SlimOTA update checker -->
-    <string name="xml_url">http://shine911.nazuka.net/ota/ota.xml</string>
-    <string name="xml_url_kitkat">http://shine911.nazuka.net/ota/ota.xml</string>
+    <string name="xml_url">http://shine911.github.io/ota.xml</string>
+    <string name="xml_url_kitkat">http://shine911.github.io/ota.xml</string>
     <string name="notification_message">SlimKat ROM update available</string>
 
     <!-- SlimOTA About -->
